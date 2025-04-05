@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# VS Code
+.vscode/
+.env
+
+# OS
+.DS_Store
+
+# Docker
+*.log
